@@ -185,7 +185,7 @@ strong, b { font: 15px/30px 'opensans-bold', sans-serif; }
 small { font-size: 11px; line-height: inherit; }
 
 /*	Blockquotes */
-blockquote {
+/*blockquote {
    margin: 30px 0px;
    padding-left: 40px;
    position: relative;
@@ -216,7 +216,7 @@ blockquote cite {
 }
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a,
-blockquote cite a:visited { color: #8B9798; border: none }
+blockquote cite a:visited { color: #8B9798; border: none }*/
 
 /* ---------------------------------------------------------------------
 /*  Pull Quotes Markup
