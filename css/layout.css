@@ -410,12 +410,12 @@ ul#nav li.current a { color: #F06000; }
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
 
-#portfolio {
+#projects {
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
 }
-#portfolio h1 {
+#projects h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
@@ -425,7 +425,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#projects-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -437,7 +437,7 @@ ul#nav li.current a { color: #F06000; }
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.portfolio-item .item-wrap a {
+.p-item .item-wrap a {
    display: block;
    cursor: pointer;
 }
@@ -578,22 +578,22 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* ------------------------------------------------------------------ */
-/* f. Call To Action Section
+/* f. Skills Section
 /* ------------------------------------------------------------------ */
 
-#call-to-action {
+#skills2 {
    background: #212121;
    padding-top: 66px;
    padding-bottom: 48px;
 }
-#call-to-action h1 {
+#skills2 h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
 }
-#call-to-action h1 span { display: none; }
-#call-to-action .header-col h1:before {
+#skills2 h1 span { display: none; }
+#skills2 .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f0ac";
 	padding-right: 10px;
@@ -603,18 +603,18 @@ ul#nav li.current a { color: #F06000; }
    float: left;
    color: #fff;
 }
-#call-to-action .action {
+#skills2 .action {
    margin-top: 12px;
 }
-#call-to-action h2 {
+#skills2 h2 {
    font: 28px/36px 'opensans-bold', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-#call-to-action h2 a {
+#skills2 h2 a {
    color: inherit;
 }
-#call-to-action p {
+#skills2 p {
    color: #636363;
    font-size: 17px;
 }
@@ -624,12 +624,12 @@ call-to-action .button {
    background: #0D0D0D;
 }
 */
-#call-to-action .button:hover,
-#call-to-action .button:active {
+#skills2 .button:hover,
+#skills2 .button:active {
    background: #FFFFFF;
    color: #0D0D0D;
 }
-#call-to-action p span {
+#skills2 p span {
 	font-family: 'opensans-semibold', sans-serif; 
 	color: #D8D8D8;
 }
